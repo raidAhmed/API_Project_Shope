@@ -1,0 +1,266 @@
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\معن 3 جديد\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\Work\MANN\AgriculturalMaan\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد جديد 5\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\refint\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.deps.json
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.runtimeconfig.json
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Infrastructure.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Application.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\bin\Release\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.AssemblyInfo.cs
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.csproj.CopyComplete
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\refint\Agricultural.Infrastructure.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\Agricultural.Infrastructure.genruntimeconfig.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Infrastructure\obj\Release\net6.0\ref\Agricultural.Infrastructure.dll

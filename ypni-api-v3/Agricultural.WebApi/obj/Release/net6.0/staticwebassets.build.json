@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IH1S3G5nO/b/aYzl7C9fhIAvmyqeA8QXDxvzw55kjvM=",
+  "Source": "Agricultural.WebApi",
+  "BasePath": "_content/Agricultural.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Agricultural.WebApi\\wwwroot",
+      "Source": "Agricultural.WebApi",
+      "ContentRoot": "C:\\Users\\sabachat\\Desktop\\ypni\\ypni-api-v3\\Agricultural.WebApi\\wwwroot\\",
+      "BasePath": "_content/Agricultural.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

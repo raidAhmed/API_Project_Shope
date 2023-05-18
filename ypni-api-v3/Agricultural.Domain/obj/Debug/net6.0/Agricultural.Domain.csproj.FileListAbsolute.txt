@@ -1,0 +1,345 @@
+G:\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agriculturalmaan12-28-2022NNNNew\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\v5\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\v5\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\v5\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\v5\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\v5\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\v6\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\v6\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\v6\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\v6\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\v6\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Agriculturalv7\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\MoathLastDes\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\MoathLastDes\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\MoathLastDes\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\MoathLastDes\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\معن جديد\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\معن دمج2\معن دمج2\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\Lasttt\معن دمم\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\mmm\Moathlast\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد جديد 5\AgriculturalLast111111111111111\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\Mohammedاخر نسخة\اخر نسخة\Agricultural\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\Agricultur888888888888888888888888888888888888\Agricultural2222222222\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\Work\MANN\AgriculturalLastV12023\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الخميس اخر شي\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\السبت مع الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\محمد ومعاذ الاخير\الاحد التعديلات الرفع\أخر نسخة بعد الرفع\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\الاثنين\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+G:\الاثنين\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\الاثنين\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\الاثنين\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\الاثنين\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\الاثنين\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\الثلاثاء\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+G:\الاربعاء 1\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+E:\السبت\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\ref\Agricultural.Domain.dll
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+C:\Users\Eng.Maher\Desktop\Agricultural\Agricultural\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\refint\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\Matjari\Matjari_Api_2_17_2023\Agricultural_Api_2_17_2023\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\refint\Agricultural.Domain.dll
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\sabachat\Desktop\ypni\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.deps.json
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\bin\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.AssemblyReference.cache
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfoInputs.cache
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.AssemblyInfo.cs
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.dll
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\refint\Agricultural.Domain.dll
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\Agricultural.Domain.pdb
+C:\Users\RAID\Desktop\raid\ypni-api-v3\Agricultural.Domain\obj\Debug\net6.0\ref\Agricultural.Domain.dll

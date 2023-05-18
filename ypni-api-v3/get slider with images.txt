@@ -1,0 +1,83 @@
+
+            var items = await _repositoryManager.SliderRepository.MyGetAll();
+         
+
+             var itemMap = _mapper.Map<IEnumerable<SliderQueryDto>>(items);
+            if (items == null) return await Result<IEnumerable<SliderQueryDto>>.FailAsync("No Data");
+            return await Result<IEnumerable<SliderQueryDto>>.SuccessAsync(itemMap, "Slider records retrieved");
+
+
+
+
+////////GenaralRepository
+
+
+ public virtual async Task<IEnumerable<T>> MyGetAll()
+        {
+            return await _context.Set<T>().ToListAsync();
+        }
+
+
+
+///// IGenaralRepository
+
+  Task<IEnumerable<T>> MyGetAll();
+
+
+
+//// sliderImageControler
+
+
+ if (Id == 0)
+            {
+                var resultSlider = await ServiceManager.SliderService.GetAll();
+
+                if (resultSlider.Data.Any())
+                {
+                   var res = resultSlider.Data.Where(x=> x.ServiceProviderId == null);
+
+                    var result = await ServiceManager.SliderImagesService.Find(x => x.SliderId == res.First().Id);
+                    if (result.Succeeded)
+                    {
+                        return Ok(result);
+                    }
+                    else
+                    {
+                        return BadRequest(result.Status);
+                    }
+
+
+
+
+
+
+
+                }
+                return BadRequest(resultSlider.Status);
+
+
+
+            }
+            else
+            {
+                var resultSlider = await ServiceManager.SliderService.Find(x => x.ServiceProviderId == Id);
+                
+                
+                if (resultSlider.Data.Any())
+                {
+                    Id = resultSlider.Data.First().Id;
+                    var result = await ServiceManager.SliderImagesService.Find(x => x.SliderId == Id);
+
+                    if (result.Succeeded)
+                    {
+                        return Ok(result);
+                    }
+                    else
+                    {
+                        return BadRequest(result.Status);
+                    }
+
+                }
+
+                return Ok(resultSlider);
+            }
